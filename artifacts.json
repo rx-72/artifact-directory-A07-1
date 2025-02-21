@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/rx-72/artifact-directory-A07-1.git",
+    "project-repository": "https://github.com/MarlonPlease/Error-Injection-Robustness-Classifier.git",
+    "project-website-url": "https://marlonplease.github.io/Error-Injection-Robustness-Classifier/",
+    "project-website-code": "https://github.com/rx-72/Dataset-Robustness-Classification-and-Error-Testing.git"
 }
