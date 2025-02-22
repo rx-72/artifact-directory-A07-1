@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Error Injection Robustness Classifier
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Data robustness is the ability of a dataset to remain clean and reliable for data tasks in the face or uncertainty and errors. As such, a dataset's robustness becomes highly important in its reliability. However, there isn't a simple way to directly confirm a dataset's robustness in comparison to others in a cost and time efficient manner. That is where ZORRO and pattern mining approaches come in. The utilization of these two techniques lets us discover scenarios of the worst case uncertainty for a given dataset and utilize them to confirm a measurement of value that would represent just how robust a given dataset is along with allowing us to compare measurements of robustness between different datasets to get a sense of the difference in sensitivity across all of our chosen samples. The goal of this paper is to demonstrate that dataset robustness can represented in a value that's generated in both a time and cost efficient manner and that said value not only gives us an idea of the level of robustness for a given dataset but also a comparison of values towards other similar dataset robustness values creating differences and thus conclusions that certain datasets are more reliable in the face of errors and uncertainty in comparison to others.
